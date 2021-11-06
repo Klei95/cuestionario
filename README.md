@@ -1,2 +1,2 @@
 # encuestas
-Pág para creaada para redirect random links
+Pág para creada para redirect random links
